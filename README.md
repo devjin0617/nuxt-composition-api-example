@@ -15,7 +15,7 @@ $ npm init nuxt-app .
 - Choose UI framework: Tailwind CSS
 - Choose custom server framework: Express
 - Choose Nuxt.js modules: Axios
-- Choose linting tools: ESLint, Prettier, Line staged files
+- Choose linting tools: ESLint, Prettier, ~Line staged files~
 - Choose test framework: Jest
 - Choose rendering mode: Universal (SSR)
 - Choose development tools: jsconfig.json
